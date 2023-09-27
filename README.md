@@ -13,7 +13,7 @@
 * I took this picture last weekend. 
     ![Water lantern festival](/IMG_8333.jpg)
 
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+* The first step work is to clone hw00 from github and edit the markdown in VScode. I learned to insert image in markdown view using ![alt statement](URL of the target image), though it didn't display as expected. Also, it's important to open to preview window while editing markdown b/c even a tiny mistake, like a lack of a single space can be critical.
 
 
 
