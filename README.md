@@ -1,12 +1,18 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
 # hw01
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
+### Horace Zhong
+> ### Brief Introduction
+> Hi! My name is Horace Zhong. I studied Psychology and Economics at Colby College. Currently, I'm interested in exploring **human computer interaction**. I like doing **origami**, and recently found that **cooking** could potentially be a good self-care activity for me. 
+
+#### Something fun about my Summer 2023
+1. I became a big fan of bernese mountain dog!!
+2. I tried to lessen my screen usage time week by week.
+3. My flight to Japan for an academic conference was canceled one day before the travel. 
+
+* I took this picture last weekend. 
+    ![Water lantern](Users/horacezhong/Desktop/MACS30111/IMG_8333.jpg)
+
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
 
